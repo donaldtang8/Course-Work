@@ -1,0 +1,16 @@
+{
+  "name": "cs-546-lab3",
+  "version": "0.0.1",
+  "description": "lab3",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Tang",
+  "license": "ISC"
+}
